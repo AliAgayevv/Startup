@@ -1,0 +1,22 @@
+@import url("root.css");
+@import url("reset.css");
+
+body
+{
+    width: 100vw;
+    height: 100vh;
+    background-color: var(--mainColor);
+}
+
+.fontHelvetica
+{
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    color: #444444;
+    font-weight: 550;
+    font-size: 40px;
+}
+
+a
+{
+    text-decoration: none;
+}
